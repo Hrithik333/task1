@@ -1,5 +1,5 @@
 # Frontend Mentor - REST Countries API with color theme switcher
- https://chamumutezva.github.io/rest-countries-api-javascript/.
+https://hrithik333.github.io/task1/
  ## Netlify link
  https://rest-countries-api-js.netlify.app/
 
